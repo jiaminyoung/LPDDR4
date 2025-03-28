@@ -1,0 +1,2 @@
+# LPDDR4
+LPDDR4
