@@ -1,2 +1,2 @@
-# LPDDR4
+# LPDDR4 document
 LPDDR4
